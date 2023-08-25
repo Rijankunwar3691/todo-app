@@ -1,6 +1,7 @@
 # todo
 
-A new Flutter project.
+This is a simple Todopp created using swagger api.
+i learned about CRUD operations in Httpa.
 
 ## Getting Started
 
